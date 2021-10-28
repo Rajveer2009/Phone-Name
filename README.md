@@ -1,2 +1,2 @@
 #Phone-Name
-Find anyones region,carrie and etc
+Find anyones region,carrier and etc
